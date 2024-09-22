@@ -9,6 +9,8 @@ body {
     padding-right: 5%;
     padding-top: 2%;
 	background: white;
+	padding-bottom: 5%;
+	
 }
 header {
     border-bottom: 1px solid #999;
@@ -20,9 +22,9 @@ header {
 }
 
 .gameData {
-	padding-left: 3%;
-	padding-top: 2%;
-	background: #dddddd;
+    padding-left: 3%;
+    padding-top: 2%;
+    background: #dddddd;
 	padding-bottom: 2%;
 	padding-right: 3%;
 	margin-left: 2%;
